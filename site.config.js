@@ -1,15 +1,19 @@
 module.exports = {
-  // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  // where it all starts -- the site's root Notion page (required)   id
+  //rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'e9a03a4865364b95ae1b5d9eff2e11f7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+//   name: 'Transitive Bullshit',
+//   domain: 'transitivebullsh.it',
+//   author: 'Travis Fischer',
+  name: '闲情偶寄',
+  domain: 'https://www.notion.so/notion-e9a03a4865364b95ae1b5d9eff2e11f7',
+  author: 'HSIA',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +21,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+//   twitter: 'transitive_bs',
+//   github: 'transitive-bullshit',
+//   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
