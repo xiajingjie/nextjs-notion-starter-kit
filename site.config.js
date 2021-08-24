@@ -12,7 +12,7 @@ module.exports = {
 //   domain: 'transitivebullsh.it',
 //   author: 'Travis Fischer',
   name: '闲情偶寄',
-  domain: 'https://www.notion.so/notion-e9a03a4865364b95ae1b5d9eff2e11f7',
+  domain: 'https://spectrum-duckling-1bc.notion.site/notion-e9a03a4865364b95ae1b5d9eff2e11f7',
   author: 'HSIA',
 
   // open graph metadata (optional)
